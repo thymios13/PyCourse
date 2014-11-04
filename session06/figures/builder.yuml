@@ -1,0 +1,1 @@
+[Director|Construct()]<>->[Builder| (a) BuildPart()], [Builder]^-[ConcreteBuilder| BuildPart();GetResult() ],[ConcreteBuilder]-.->[Product]
