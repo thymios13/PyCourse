@@ -1,0 +1,1 @@
+[Product]^-[ConcreteProduct], [Creator| (v) FactoryMethod()]^-[ConcreteCreator| FactoryMethod()], [ConcreteCreator]-.->[ConcreteProduct]
