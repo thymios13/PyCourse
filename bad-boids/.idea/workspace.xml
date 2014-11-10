@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5db8df57-07aa-47dc-aafc-d4148874e281" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/boids.py" afterPath="$PROJECT_DIR$/boids.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fixture.yml" afterPath="$PROJECT_DIR$/fixture.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/record_fixture.py" afterPath="$PROJECT_DIR$/record_fixture.py" />
-    </list>
+    <list default="true" id="5db8df57-07aa-47dc-aafc-d4148874e281" name="Default" comment="" />
     <ignored path="bad-boids.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -32,8 +28,8 @@
           <file leaf-file-name="boids.py" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/boids.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.19607843" vertical-offset="45" max-vertical-offset="990">
-                  <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+                <state vertical-scroll-proportion="0.22058824" vertical-offset="15" max-vertical-offset="990">
+                  <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
                   <folding>
                     <element signature="e#142#178#0" expanded="true" />
                   </folding>
@@ -48,7 +44,7 @@
           <file leaf-file-name="fixture.yml" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/fixture.yml">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="-5.4" vertical-offset="0" max-vertical-offset="1500">
+                <state vertical-scroll-proportion="-5.4" vertical-offset="0" max-vertical-offset="1470">
                   <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
                   <folding />
                 </state>
@@ -94,8 +90,8 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/boids.py" />
         <option value="$PROJECT_DIR$/test_boids.py" />
+        <option value="$PROJECT_DIR$/boids.py" />
         <option value="$PROJECT_DIR$/record_fixture.py" />
       </list>
     </option>
@@ -418,8 +414,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/boids.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.19607843" vertical-offset="45" max-vertical-offset="990">
-          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        <state vertical-scroll-proportion="0.22058824" vertical-offset="15" max-vertical-offset="990">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding>
             <element signature="e#142#178#0" expanded="true" />
           </folding>
